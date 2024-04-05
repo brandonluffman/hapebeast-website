@@ -73,7 +73,7 @@ html, body {
 
 .landing-col {
   text-align: center;
-  background-image: url('../assets/491E651C-C6FF-44F8-BF94-02C9BA7A1721.jpeg');
+  background-image: url('/public/assets/491E651C-C6FF-44F8-BF94-02C9BA7A1721.jpeg');
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center;
